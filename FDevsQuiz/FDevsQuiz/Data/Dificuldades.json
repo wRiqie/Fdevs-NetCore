@@ -1,0 +1,19 @@
+﻿{
+  "Dificuldades": [
+    {
+      "CodigoDificuldade": "1",
+      "Dificuldade": "Fácil"
+    },
+    {
+      "CodigoDificuldade": "2",
+      "Dificuldade": "Médio"
+    },
+    {
+      "CodigoDificuldade": "3",
+      "Dificuldade": "Dificil"
+    },
+    {
+      "CodigoDificuldade": "4",
+      "Dificuldade": "Expert"
+    }]
+}
