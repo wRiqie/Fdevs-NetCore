@@ -1,9 +1,0 @@
-﻿{
-  "Usuarios": [
-    {
-      "CodigoUsuario": 1,
-      "Nome": "Henrique",
-      "Pontuacao": 80,
-      "UrlImage": "CaminhoUrl"
-    }]
-}
